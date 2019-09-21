@@ -33,3 +33,5 @@ Contents:
    contributor-guidelines
    
    definitions
+   
+   cds-participants
