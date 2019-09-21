@@ -13,9 +13,9 @@ We will be playing with an example study during the hands-on Lookit workshop at 
     :width: 300
     :align: center
     
-3. If you have not previously logged in to Lookit (or Lookit staging), you should now see a message that 'Your request to join Experimenter has been submitted. You will receive a notification by email when this is completed.' Approval is easy but currently manual. But in any event, you will get approval before the workshop at CDS!
+3. If you have not previously logged in to Lookit (or Lookit staging), you should now see a message that 'Your request to join Experimenter has been submitted. You will receive a notification by email when this is completed.' Approval is easy but currently manual, and should happen within a few days. But in any event, you will get approval before the workshop at CDS!
 
 .. image:: _static/img/dashboard.png
     :alt: Login to experimenter image
 
-4. Once your request is approved, you can return to `<https://staging-lookit.cos.io/exp/>`_ to log in. You should now see a "Manage Studies" page. Bookmark this address!
+4. Once your request is approved, you will be able to return to  `<https://staging-lookit.cos.io/exp/>`_ to log in. You should now see a "Manage Studies" page. Bookmark this address!
